@@ -8,7 +8,7 @@
             "month": "Jan 2024",
             "numeric": "1",
             "price": "1.00",
-            "phone": null,
+            "phone": "1110000000",
             "zip": "10000-0000",
             "email": "email@@gmail.com"
         },
@@ -21,7 +21,7 @@
             "numeric": "2",
             "price": "2",
             "phone": "(222)000-0000",
-            "zip": "20000-0000",
+            "zip": null,
             "email": "email@gmail.com"
         },
       {
@@ -32,7 +32,7 @@
             "month": "Mar 2024",
             "numeric": "3",
             "price": "",
-            "phone": "(333)000-0000",
+            "phone": "(333)0000000",
             "zip": "30000-0000",
             "email": "email@gmail.com"
         },
@@ -43,7 +43,7 @@
             "time": "04:00",
             "month": "Apr 2024",
             "numeric": "4",
-            "price": "$ 4,444.00",
+            "price": "€ 4,444.00",
             "phone": "(444)000-0000",
             "zip": "40000-0000",
             "email": "email@gmail.com"
@@ -55,9 +55,9 @@
             "time": "05:00",
             "month": "May 2024",
             "numeric": "5",
-            "price": "5.00",
+            "price": "-5,254.00",
             "phone": "(555)000-0000",
-            "zip": true,
+            "zip": 12345,
             "email": "email@gmail.com"
         },
       {
@@ -69,7 +69,7 @@
             "numeric": "6",
             "price": "$66.00",
             "phone": "(666)000-0000",
-            "zip": "60000-0000",
+            "zip": "600",
             "email": "email@gmail.com"
         }
     ]
