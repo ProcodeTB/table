@@ -20,7 +20,7 @@
             "month": "FFF 2024",
             "numeric": "2.90",
             "price": "2,5252",
-            "phone": "(222)000-0000",
+            "phone": "+1(222)000-0000",
             "zip": null,
             "email": "email@gmail..com"
         },
@@ -32,7 +32,7 @@
             "month": "Mar 2024",
             "numeric": "-3,549.00",
             "price": "",
-            "phone": "(333)0000000",
+            "phone": " (333)0000000 ",
             "zip": "30000-123",
             "email": "email@gmail.com"
         },
@@ -45,8 +45,8 @@
             "numeric": "4Runner",
             "price": "€ 4,444.00",
             "phone": "(444)000-0000",
-            "zip": "40000-0000",
-            "email": "email@gmail.com"
+            "zip": "400000000",
+            "email": "email@gmail.co m"
         },
       {
             "text": null,
