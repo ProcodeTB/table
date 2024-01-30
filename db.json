@@ -4,7 +4,7 @@
             "text": "test1",
             "date": "01/01/2024",
             "date-time": "01/01/2024 01:00",
-            "time": null,
+            "time": "01:00",
             "month": "Jan 2024",
             "numeric": "1",
             "price": "1.00",
