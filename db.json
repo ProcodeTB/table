@@ -55,7 +55,7 @@
             "time": "13:00",
             "month": null,
             "numeric": "-.0005",
-            "price": "-5,254.00",
+            "price": " -5,254.00 ",
             "phone": "(555)000-0000",
             "zip": 12345,
             "email": "email@gmail.com"
