@@ -10,7 +10,8 @@
             "price": "1.00",
             "phone": 1110000000,
             "zip": " 10000-0000 ",
-            "email": "email@@gmail.com"
+            "email": "email@@gmail.com",
+            "flightNumber": "<span class=\"cutoff\" title=\"Berlin Brandenburg\">Berlin Brandenburg</span>"
         },
       {
             "text": " test2 ",
@@ -22,7 +23,8 @@
             "price": "2,5252",
             "phone": "+1(222)000-0000",
             "zip": null,
-            "email": "email@gmail.com"
+            "email": "email@gmail.com",
+            "flightNumber": "<span class=\"cutoff\" title=\"Frankfurt\">Frankfurt</span>"
         },
       {
             "text": "",
@@ -34,7 +36,8 @@
             "price": "",
             "phone": " (333)0000000 ",
             "zip": "30000-123",
-            "email": "email@gmail.com"
+            "email": "email@gmail.com",
+            "flightNumber": "<span class=\"cutoff\" title=\"Paris CDG\">Paris CDG</span>"
         },
       {
             "text": "~`!@#$%^&*()_-+=*{}[];':|><.,?",
@@ -46,7 +49,8 @@
             "price": "€ 4,444.00",
             "phone": "(444)000-0000",
             "zip": "400000000",
-            "email": "email@gmail.com"
+            "email": "email@gmail.com",
+            "flightNumber": ""
         },
       {
             "text": null,
@@ -58,7 +62,8 @@
             "price": " -5,254.00 ",
             "phone": "(555)000-0000",
             "zip": 12345,
-            "email": "email@gmail.com"
+            "email": "email@gmail.com",
+            "flightNumber": ""
         },
       {
             "text": "test6",
@@ -70,7 +75,8 @@
             "price": "$66.00",
             "phone": "(666)000-0000",
             "zip": "600",
-            "email": "email@gmail.com"
+            "email": "email@gmail.com",
+            "flightNumber": ""
         }
     ]
 }
