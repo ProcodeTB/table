@@ -12,9 +12,8 @@
             "zip": " 10000-0000 ",
             "email": "email@@gmail.com",
             "flightNumber": "<span class=\"cutoff\" title=\"Berlin Brandenburg\">Berlin Brandenburg</span>",
-            "imageBig": "https://upload.wikimedia.org/wikipedia/commons/c/c7/5_56_49_am_.....a_ship.jpg",
-            "image_unknown": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWG1RkW0G0MYRwszqTvVo3ZGw9NzQmG_Ye4CmSGEvfog&s",
-            "image_bmp": "https://products.softsolutionslimited.com/wp-content/uploads/images/blog/image_files/sample.bmp",
+            "image_unknown": null,
+            "image_bmp": "",
             "image_param": "https://www.webdesignerdepot.com/assets/posts/featured/_800x418_crop_center-center_82_none/Everything-You-Need-to-Know-About-Image-Formats-In-2024.jpg?mtime=1703062568",
             "image_13.8": "https://upload.wikimedia.org/wikipedia/commons/3/3d/LARGE_elevation.jpg",
             "image_jpg_1": "https://i.pinimg.com/originals/5b/e9/d6/5be9d63a3e1ee90aac391a2ca7342054.jpg",
@@ -35,6 +34,9 @@
             "zip": null,
             "email": "email@gmail.com",
             "flightNumber": "<span class=\"cutoff\" title=\"Frankfurt\">Frankfurt</span>"
+            "image_unknown": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWG1RkW0G0MYRwszqTvVo3ZGw9NzQmG_Ye4CmSGEvfog&s",
+            "imageBig": "https://upload.wikimedia.org/wikipedia/commons/c/c7/5_56_49_am_.....a_ship.jpg",
+            "image_bmp": "https://products.softsolutionslimited.com/wp-content/uploads/images/blog/image_files/sample.bmp"
         },
         {
             "text": "",
