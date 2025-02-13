@@ -21,6 +21,7 @@
             "image_unknown2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlwcTZ1Zr0vSJRSMWxFswT822xSwFx0ydV8A&usqp=CAU",
             "image_png_2": "https://w7.pngwing.com/pngs/895/199/png-transparent-spider-man-heroes-download-with-transparent-background-free-thumbnail.png",
             "image_unknown3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQCYCG3BEc6wgzCbe6te-aeLlY3dM5C-In5w&usqp=CAU",
+            "file_path": "C:\\Users\\Aida\\Downloads\\document_viewer\\CSV.csv",
             "special_for_Lily": "85364"
         },
         {
@@ -37,6 +38,7 @@
             "flightNumber": "<span class=\"cutoff\" title=\"Frankfurt\">Frankfurt</span>",
             "image_unknown": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWG1RkW0G0MYRwszqTvVo3ZGw9NzQmG_Ye4CmSGEvfog&s",
             "imageBig": "https://upload.wikimedia.org/wikipedia/commons/c/c7/5_56_49_am_.....a_ship.jpg",
+            "file_path": "C:\\Users\\Aida\\Downloads\\document_viewer\\SVG.svg",
             "image_bmp": "https://products.softsolutionslimited.com/wp-content/uploads/images/blog/image_files/sample.bmp"
         },
         {
@@ -50,6 +52,7 @@
             "phone": " (333)0000000 ",
             "zip": "30000-123",
             "email": "email@gmail.com",
+            "file_path": "C:\\Users\\Aida\\Downloads\\document_viewer\\Text.txt",
             "flightNumber": "<span class=\"cutoff\" title=\"Paris CDG\">Paris CDG</span>"
         },
         {
@@ -63,6 +66,7 @@
             "phone": "(444)000-0000",
             "zip": "400000000",
             "email": "email@gmail.com",
+            "file_path": "C:\\Users\\Aida\\Downloads\\document_viewer\\Video.webm",
             "flightNumber": ""
         },
         {
@@ -76,6 +80,7 @@
             "phone": "(555)000-0000",
             "zip": 12345,
             "email": "email@gmail.com",
+            "file_path": "C:\\Users\\Aida\\Downloads\\document_viewer\\vulnerable.sh",
             "flightNumber": ""
         },
         {
@@ -89,6 +94,35 @@
             "phone": "(666)000-0000",
             "zip": "600",
             "email": "email@gmail.com",
+            "file_path": "C:\\Users\\Aida\\Downloads\\document_viewer\\XLSX.xlsx",
+            "flightNumber": ""
+        },
+        {
+            "text": "test7",
+            "date": "",
+            "date-time": "07/01/2024 18:31",
+            "time": "07:25",
+            "month": "Jul 2024",
+            "numeric": "-5.66",
+            "price": "-$901.02",
+            "phone": "(725)005-0000",
+            "zip": "77027-1825",
+            "email": "7email@gmail.com",
+            "file_path": "C:\\Users\\Aida\\Downloads\\document_viewer\\ZIP.zip",
+            "flightNumber": ""
+        },
+        {
+            "text": "test8_",
+            "date": "02/29/2020",
+            "date-time": "08/11/2021 08:11",
+            "time": "17:25",
+            "month": "Aug 2024",
+            "numeric": "-50.66",
+            "price": "-$251.02",
+            "phone": "(825)005-3500",
+            "zip": "77588-1825",
+            "email": "8email@gmail.com",
+            "file_path": "https://products.softsolutionslimited.com/wp-content/uploads/images/blog/image_files/sample.bmp",
             "flightNumber": ""
         }
     ]
