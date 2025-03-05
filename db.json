@@ -168,7 +168,8 @@
             "flightNumber": ""
         },
         {
-            "file_path": "https://file-examples.com/wp-content/storage/2017/02/file-sample_500kB.doc"
+            "text": "https://www.youtube.com",
+            "file_path": "https://auto.am/"
         },
         {
             "file_path": "https://file-examples.com/wp-content/storage/2017/02/file-sample_1MB.docx"
@@ -180,6 +181,7 @@
             "file_path": "https://file-examples.com/wp-content/storage/2017/02/file_example_XLSX_5000.xlsx"
         },
         {
+            "text": "www.youtube.com",
             "file_path": "https://file-examples.com/wp-content/storage/2017/08/file_example_PPT_1MB.ppt"
         },
         {
