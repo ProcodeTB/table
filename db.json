@@ -188,7 +188,8 @@
             "file_path": "https://file-examples.com/wp-content/storage/2017/10/file-example_PDF_1MB.pdf"
         },
         {
-            "file_path": "https://file-examples.com/wp-content/storage/2017/10/file-sample_500kB.odt"
+            "text": "glossier",
+            "file_path": "nyx"
         },
         {
             "file_path": "https://file-examples.com/wp-content/storage/2017/10/file_example_ODS_100.ods"
