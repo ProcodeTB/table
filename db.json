@@ -180,17 +180,19 @@
         },
         {
             "text": "https://www.youtube.com",
-            "elementItemUniqueId": 39,
+            "elementItemUniqueId": ,
             "file_path": "https://auto.am/"
         },
         {
             "text": "glossier",
-            "elementItemUniqueId": 14,
+            "elementItemUniqueId": null,
+            "date": null,
             "file_path": "https://file-examples.com/wp-content/storage/2017/02/file-sample_1MB.docx"
         },
         {
             "text": "glossier",
             "elementItemUniqueId": 37,
+            "date": ,
             "file_path": "https://file-examples.com/wp-content/storage/2017/02/file_example_XLS_5000.xls"
         },
         {
