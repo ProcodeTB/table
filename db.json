@@ -2,7 +2,7 @@
     "table": [
         {
             "text": "AZH-0001007",
-            "elementItemUniqueId": ,
+            "elementItemUniqueId": 152,
             "date": "01/01/2024",
             "date-time": "01/01/2024 01:00",
             "time": "01:00",
@@ -23,7 +23,15 @@
             "image_png_2": "https://w7.pngwing.com/pngs/895/199/png-transparent-spider-man-heroes-download-with-transparent-background-free-thumbnail.png",
             "image_unknown3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQCYCG3BEc6wgzCbe6te-aeLlY3dM5C-In5w&usqp=CAU",
             "file_path": "https://people.sc.fsu.edu/~jburkardt/data/csv/airtravel.csv",
-            "special_for_Lily": "85364"
+            "special_for_Lily": "85364",
+            "Yes": "Yes",
+            "yes": "yes",
+            "No": "No",
+            "no": "no",
+            "Boolean_True": "True",
+            "boolean_true": true,
+            "Boolean_False": "False",
+            "boolean_false": false
         },
         {
             "text": "CAZ-0010036",
