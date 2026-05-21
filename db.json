@@ -31,7 +31,8 @@
             "Boolean_True": "True",
             "boolean_true": true,
             "Boolean_False": "False",
-            "boolean_false": false
+            "boolean_false": false,
+            "image_html": "<span class=\"cutoff\" title=\"Berlin Brandenburg\"><img src=\"https://static-assets.glossier.com/production/spree/images/attachments/000/001/631/portrait_normal/SC_Carousel_1_copy_2.jpg?1506948615\" alt=\"Berlin Brandenburg\" width=\"200\"></span>"
         },
         {
             "text": "CAZ-0010036",
